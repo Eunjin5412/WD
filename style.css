@@ -69,7 +69,7 @@ iframe {
 /* MAIN
 ------------------------------- */
 #MAIN {
-    background-image: url(../images/main-bg.png);
+    background-image: url(/images/main-bg.png);
     min-height: 100vh;
 }
 #MAIN .page-title {
@@ -177,7 +177,7 @@ p{
 /* K-NOW
 ------------------------------- */
 #K-NOW {
-    background-image: url(../images/k-now-bg.png);
+    background-image: url(/images/k-now-bg.png);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -202,7 +202,7 @@ p{
 /* K-CONTENTS
 ------------------------------- */
 #K-CONTENTS {
-    background-image: url(../images/k-contents-bg.png);
+    background-image: url(/images/k-contents-bg.png);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -251,7 +251,7 @@ article p {
 /* K-FOOD
 ------------------------------- */
 #K-FOOD {
-    background-image: url(../images/k-food-bg.png);
+    background-image: url(/images/k-food-bg.png);
     height: 270px;
     margin-bottom: 40px;
 }
