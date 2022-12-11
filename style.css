@@ -21,7 +21,6 @@ a{
 
 img {
     max-width: 100%;
-
 }
 .wrapper {
     max-width: 1100px; /*최대 너비를 지정*/
@@ -84,7 +83,6 @@ iframe {
     font-size: 1.125rem;
     margin: 10px 0 42px;
 }
-
 .ourwave h1{
     text-align: center;
     display: inline;
@@ -92,7 +90,6 @@ iframe {
     width: 20px;
     height: 4px;
 }
-
 .slider{
     width: 467px;
     height: 467px;
@@ -166,7 +163,6 @@ ul.imgs li{
     transition: 0.5s;
     z-index:1;
 }
-
 h1{
     margin-left: 1%;
     text-align: center;
@@ -268,8 +264,6 @@ article p {
     margin-bottom: 50px;
 }
 
-
-
 /* 푸터
 ------------------------------- */
 footer {
@@ -282,13 +276,7 @@ footer p {
     font-size: 0.875rem;
 }
 
-
-
-
-
-
-
-
+/* 유튜브 영상*/
 .bts-video {
     position: relative;
     height: 0;
@@ -302,13 +290,11 @@ footer p {
     width: 100%;
     height: 100%;
 }
-
 .blpk-video {
     position: relative;
     height: 0;
     padding-bottom: 56.25%;
 }
-
 .blpk-video iframe {
     position: absolute;
     top: 0;
@@ -316,7 +302,6 @@ footer p {
     width: 100%;
     height: 100%;
 }
-
 .sqd-video {
     position: relative;
     height: 0;
@@ -330,13 +315,11 @@ footer p {
     width: 100%;
     height: 100%;
 }
-
 .prc-video {
     position: relative;
     height: 0;
     padding-bottom: 56.25%;
 }
-
 .prc-video iframe {
     position: absolute;
     top: 0;
@@ -344,9 +327,6 @@ footer p {
     width: 100%;
     height: 100%;
 }
-
-
-
 
 /* K-FOOD
 ------------------------------- */
@@ -362,7 +342,6 @@ footer p {
     font-size: 1.125rem;
     margin: 10px 0 0;
 }
-
 .grid {
   display: grid;
   gap: 26px;
@@ -370,7 +349,6 @@ footer p {
   margin-top: 6%;
   margin-bottom: 50px;
 }
-
 .item button {
     display: flexbox;
     line-height: 22px;
@@ -382,6 +360,3 @@ footer p {
     height: 20px;
     cursor: pointer;
 }
-
-
-
